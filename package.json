@@ -1,0 +1,18 @@
+{
+  "name": "node-test",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "server": "node ./server/server.js"
+  },
+  "keywords": [
+    "node-test"
+  ],
+  "author": "aureustaurus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
